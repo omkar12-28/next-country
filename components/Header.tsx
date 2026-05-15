@@ -24,7 +24,7 @@ const Header = ({ search, setSearch, showSearch = true }: HeaderProps) => {
           <Link href="/" className="flex items-center gap-2 shrink-0">
             <Globe className="h-6 w-6 text-primary" />
             <span className="text-lg font-bold text-foreground tracking-tight">
-              WorldExplorer
+              NextCountry
             </span>
           </Link>
 
@@ -41,7 +41,7 @@ const Header = ({ search, setSearch, showSearch = true }: HeaderProps) => {
                 {search && (
                   <button
                     onClick={() => onSearchChange("")}
-                    className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
+                    className="cursor-pointer absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
                   >
                     <X className="h-4 w-4" />
                   </button>

@@ -9,7 +9,7 @@ interface CountryCardProps {
 
 const CountryCard = ({ country }: CountryCardProps) => {
   return (
-    <Link href={`/country/${country.cca3}`} className="h-full">
+    <Link href={`/countries/${country.cca3}`} className="h-full">
       <Card className="overflow-hidden hover:shadow-lg transition-shadow duration-300 h-full group">
         <div className="aspect-video overflow-hidden">
         <Image

@@ -146,7 +146,7 @@ const CountryDetailConntainer = () => {
                   {borderCountries.map((b) => (
                     <Link
                       key={b.cca3}
-                      href={`/country/${b.cca3}`}
+                      href={`/countries/${b.cca3}`}
                       className="inline-block"
                     >
                       <Badge
