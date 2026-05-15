@@ -53,8 +53,8 @@ next-country/
 ---
 
 ## Sample Images
-
-
+<img width="1920" height="1080" alt="Screenshot 2026-05-15 141940" src="https://github.com/user-attachments/assets/32af93df-b001-49de-83e9-fe07226d5f42" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-15 141957" src="https://github.com/user-attachments/assets/ef7abf29-5246-4f81-9fa9-c63c45b69d5b" />
 
 ---
 
